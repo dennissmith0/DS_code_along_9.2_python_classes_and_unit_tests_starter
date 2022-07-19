@@ -1,4 +1,4 @@
-# Code-Along 9.2 - Python Classes and Unit Tests (SOLUTION)
+# Code-Along 9.2 - Python Classes and Unit Tests Starter
 
 ## Requirements
 
@@ -41,4 +41,6 @@ Make sure that you close down your virtual environment, and command line applica
 
 3. Run the main file as a script:
 
-`python song.py`
+`cd media_grabber`
+
+`python media.py`
